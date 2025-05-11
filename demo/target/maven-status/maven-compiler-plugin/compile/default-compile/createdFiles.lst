@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\rest\HelloWorld.class
+com\example\demo\rest\PictureController.class
+com\example\demo\service\PictureService.class
+com\example\demo\model\Picture.class
